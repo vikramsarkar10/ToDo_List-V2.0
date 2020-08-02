@@ -7,7 +7,7 @@ Checkout the Web-App: https://lit-brushlands-53496.herokuapp.com/
 To install in your system, follow these steps:
 
 i. clone the project
-ii. from command line, move the project folder
+ii. from command line, move to project folder
 iii. install npm
 iv. install express
 v. install ejs
